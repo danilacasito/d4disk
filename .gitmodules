@@ -1,0 +1,3 @@
+[submodule "Archiso_XFCE4"]
+	path = Archiso_XFCE4
+	url = https://github.com/danilacasito/Archiso_XFCE4.git
